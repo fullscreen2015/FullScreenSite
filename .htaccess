@@ -1,0 +1,34 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteRule adm/.*$ - [L]
+RewriteRule adm/(.*)\.html$ adm/$1.html [L]
+
+
+RewriteRule plg,(.*),(.*)\.html$ conteudo.php?conteudo=produtos_listagem&codigo_grupo=$1 [L]
+
+
+RewriteRule plc,(.*),(.*)\.html$ conteudo.php?conteudo=produtos_listagem&codigo_categoria=$1 [L]
+
+RewriteRule pr,(.*),(.*)\.html$ conteudo.php?conteudo=principal&erro=$1 [L]
+
+RewriteRule pdt,(.*),(.*)\.html$ conteudo.php?conteudo=produtos_detalhe&codigo_produto=$1 [L]   
+
+RewriteRule lo,(.*),(.*)\.html$ conteudo.php?conteudo=area-cliente-login&msg=$1 [L]
+
+
+
+RewriteRule (.*)\.html$ conteudo.php?conteudo=$1 [L]
+
+RewriteRule (.*)---(.*)\.gif$ $1.gif [L]
+RewriteRule (.*)---(.*)\.png$ $1.png [L]
+RewriteRule (.*)---(.*)\.jpg$ $1.jpg [L]
+
+IndexIgnore *.wmv *.jpg *.gif *.swf *.png *.html *.php *.js
+
+Options -Indexes
+ServerSignature Off
+FileETag none
