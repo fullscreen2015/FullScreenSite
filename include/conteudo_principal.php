@@ -7,7 +7,7 @@
                 <div class="caixa_right">
                   <h1 class="empresa_principal"><span>Automação Comercial</span></h1>
                   
-                  <p class="empresa_principal_texto">soluções em automação comercial, com a integração entre homem e máquina somados a gestão. A automação lhe permite total ger�ncia e controle operacional sobre a empresa. A Full Screen possui softwares pr�prios, desenvolvidos de acordo com as novas leis vigentes, como nota fiscal eletr�nica e nota fiscal eletr�nica do consumidor, buscando o aprimoramento do controle interno, apoiado em sistema de gest�o administrativa com m�dulos integrados em todos os setores da empresa no padr�o �ERP�.</p>
+                  <p class="empresa_principal_texto">Soluções em automação comercial, com a integração entre homem e máquina somados a gestão. A automação lhe permite total gerência e controle operacional sobre a empresa. A Full Screen possui softwares próprios, desenvolvidos de acordo com as novas leis vigentes, como nota fiscal eletrônica e nota fiscal eletrônica do consumidor, buscando o aprimoramento do controle interno, apoiado em sistema de gestão administrativa com módulos integrados em todos os setores da empresa no padrão (ERP).</p>
                   
                 </div>
                 <div class="fundo_abaixo">
@@ -19,7 +19,7 @@
           <div class="destaques">
             <div class="container">
               <div class="titulo_destaques">
-                <h2>conheça ALGUNS DE NOSSOS PRODUTOS!</h2>
+                <h2>Conheça ALGUNS DE NOSSOS PRODUTOS!</h2>
               </div>
               <div id="carrossel">
             
