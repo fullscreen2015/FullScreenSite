@@ -1,7 +1,7 @@
 <div class="geral_interna">
 	<div class="container">
 		<div class="caixa_solucoes">
-			<h1>soluções</h1>
+			<h1>SOLUÇÕES</h1>
 			<div class="caixa_automacao">
 				<p class="texto_automacao">AUTOMAÇÃO COMERCIAL</p>
 			</div>
@@ -61,7 +61,7 @@
  <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Consulta de Clientes</p>
  <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Consulta de Títulos em Aberto</p>
  <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Consulta de Títulos Pagos</p>
- <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Lan�amento de Créditos e Débitos para Clientes</p>
+ <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Lançamento de Créditos e Débitos para Clientes</p>
  <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Consulta de Créditos e Débitos dos Clientes</p>
  <p class="p_destaque_solucoes">� &nbsp; &nbsp; &nbsp;	Consulta de Produtos</p>
 
