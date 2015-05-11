@@ -24,7 +24,7 @@
     </div>
 
     <div class="texto_empresa_grande">
-       <h2>soluções</h2>
+       <h2>SOLUÇÕES</h2>
 
         <p><span>Automação Comercial: </span>Automação comercial é a aplicaçãoo de métodos e ferramentas para automatizar, mecanizar e agilizar processos manuais, alcançando total eficiência. Com a automação, tarefas passíveis de erros, como: cálculo e digitação de preços, quantidades, emissão de nota fiscal; ficam mais seguras e eficientes. Atualmente as leis brasileiras estão ficando mais complexas e exigentes no que se refere a automação comercial exigindo da empresa desenvolvedora bem como do usuário final rígidos controles. A Full Screen possui software próprio desenvolvido de acordo com as novas leis vigentes do país.</p>
         <p><span>Automação de Vendas: </span>O VDM Plus é um aplicativo desenvolvido para Tablets e Smartphones, que tenham como sistema operacional o Android. Destina-se a atender empresas que trabalham com vendas externas (atacadistas / distribuidores).</p>
@@ -33,7 +33,7 @@
 
         <h2>A EQUIPE</h2>
 
-        <p>A Full Screen traz em sua bagagem a pessoa do diretor Alcindo Alves dos Reis Filho, 35 anos de experiência no desenvolvimento de aplicativos administrativos, financeiros e industriais para ambientes multiusuários em plataformas UNIX. Durante estes anos, o mesmo foi funcionário de algumas empresas de médio e grande porte onde iniciou a carreira como programador, tendo sido promovido posteriormente a analista de sistemas. Nos últimos 10 (dez) anos ainda como funcionário atuou na ger�ncia de setores de informática (CPD'S) tendo também publicado alguns livros na área de desenvolvimento de sistemas em Visual Basic.</p>
+        <p>A Full Screen traz em sua bagagem a pessoa do diretor Alcindo Alves dos Reis Filho, 35 anos de experiência no desenvolvimento de aplicativos administrativos, financeiros e industriais para ambientes multiusuários em plataformas UNIX. Durante estes anos, o mesmo foi funcionário de algumas empresas de médio e grande porte onde iniciou a carreira como programador, tendo sido promovido posteriormente a analista de sistemas. Nos últimos 10 (dez) anos ainda como funcionário atuou na gerência de setores de informática (CPD'S) tendo também publicado alguns livros na área de desenvolvimento de sistemas em Visual Basic.</p>
 
 
         
