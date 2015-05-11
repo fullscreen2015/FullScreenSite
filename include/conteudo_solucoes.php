@@ -26,7 +26,7 @@
           
           <p class="texto_solucoes">O VDM é um aplicativo desenvolvido para Tablets e Smartphones, que tenham o Android como sistema operacional. Destina-se a atender empresas que trabalham com vendas externas (atacadistas / distribuidores). </p>
 
-          <p class="texto_solucoes">através de um programa que funciona em um computador fazemos a comunicação entre computador e os dispositivos (tablete ou Smartphone). Podemos dizer que esse programa é a matriz. E também através dele que instalamos e configuramos o VDM nos Tablets e Smartphones. </p>
+          <p class="texto_solucoes">Através de um programa que funciona em um computador fazemos a comunicação entre computador e os dispositivos (tablete ou Smartphone). Podemos dizer que esse programa é a matriz. E também através dele que instalamos e configuramos o VDM nos Tablets e Smartphones. </p>
 
 
 		</div>
