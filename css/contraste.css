@@ -1,0 +1,31 @@
+.contraste
+{
+  color: #fff;
+  background: #262626;
+}
+
+.contraste p
+{
+  color: #fff;
+}
+
+.contraste .conteudo_empresa
+{
+  background: url(../imagens/layout/fundo_conteudo_contraste.png) 0 0 repeat;
+}
+
+.contraste .total_rodape
+{
+  background: #4c4c4c;
+}
+
+.contraste .total_rodape h2
+{
+  color: #9a83b4;
+}
+
+.contraste .total_rodape p,
+.contraste .total_rodape a
+{
+  color: #fff;
+}

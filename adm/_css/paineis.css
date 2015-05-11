@@ -1,0 +1,64 @@
+body
+{
+  border:0px;
+  margin:0px;
+  font-family: verdana,arial; 
+  color:#000000;
+  background-color: #cccccc;
+  text-decoration: none; 
+}
+
+h1
+{
+  float:left;
+  width:290px;
+  margin:0px 0px 20px 0px; 
+  font-size:15px; 
+  background-color:#dddddd; 
+  padding:6px;
+}
+
+a
+{
+  float:left;
+  margin:10px 0px 0px 0px; 
+  font-size:12px; 
+  background-color:#bbbbbb; 
+  padding:5px;
+  text-decoration: none;
+  color:#333333;
+
+  border-top:1px solid #dddddd;
+  border-right:1px solid #dddddd;
+  border-bottom:1px solid #aaaaaa;
+  border-left:1px solid #aaaaaa;
+
+  clear:both;
+}
+
+a:hover
+{
+  text-decoration: none;
+  color:#ffffff;
+}
+
+
+input[type="text"]
+{
+  border-top:1px solid #aaaaaa;
+  border-right:1px solid #aaaaaa;
+  border-bottom:1px solid #dddddd;
+  border-left:1px solid #dddddd;
+
+  padding:5px;
+
+  background-color: #eeeeee;
+
+  color:#666666;
+}
+
+
+input[type="submit"]:hover
+{
+  color:#c4ae19;
+}

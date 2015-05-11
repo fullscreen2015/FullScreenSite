@@ -1,0 +1,1 @@
+<?  header("Location: painel.php");  ?>

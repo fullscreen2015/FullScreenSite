@@ -1,0 +1,38 @@
+.borda_preta 
+{
+  border-bottom: 2px #666666 solid; 
+  border-left: 2px #666666 solid; 
+  border-right: 2px  #cccccc solid; 
+  border-top: 2px #cccccc solid; 
+}
+
+.relatorio 
+{
+  font-family: verdana,arial; 
+  font-size: 9pt; 
+  color: #000000;
+  text-decoration: none; 
+}
+
+.relatorio:hover 
+{
+  font-family: verdana,arial; 
+  font-size: 9pt; 
+  color: #666666;
+  text-decoration: none; 
+}
+
+
+
+.relatorio_link
+{
+  font-family: verdana,arial; 
+  font-size: 9pt; 
+  color: #eeeeee;
+  text-decoration: none; 
+}
+
+.relatorio_link:hover 
+{
+  color: #cccccc;
+}
