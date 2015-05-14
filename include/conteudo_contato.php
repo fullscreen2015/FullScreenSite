@@ -2,7 +2,7 @@
 	<div class="container">
 		<h1 class="titulo_contato">CONTATO</h1>
 		<div class="caixa_left_contato">
-			<p class="texto_contato">DEIXE SUA SUGEST√O, D⁄VIDA OU CRÕTICA QUE RESPONDEREMOS O MAIS BREVE POSSÕVEL!</p>
+			<p class="texto_contato">DEIXE SUA SUGEST√ÉO, D√çVIDA OU CR√çTICA QUE RESPONDEREMOS O MAIS BREVE POSS√çVEL!</p>
 			<form id="form_contato" name="form_dados" class="form-entrar-contato" method="post" action="php_envia_contato.php" onsubmit="return validar(this);" >
 				<div class="forms">
 					<p class="p-contato_ ">NOME</p>

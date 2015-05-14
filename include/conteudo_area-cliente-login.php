@@ -1,6 +1,6 @@
 <div class="geral_interna">
 	<div class="container">
-		<h1 class="titulo_area_cliente">¡REA DO CLIENTE</h1>
+		<h1 class="titulo_area_cliente">√ÅREA DO CLIENTE</h1>
 		<form id="form_contato_login" name="form_dados" class="form-entrar-contato_login" method="post" action="sistema_login.php" onsubmit="return validar(this);" >
 			<div class="forms_login">
 				<p class="p-contato_login">LOGIN</p>

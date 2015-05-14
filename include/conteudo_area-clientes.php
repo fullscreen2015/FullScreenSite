@@ -105,7 +105,7 @@
 
 <div class="geral_interna">
 	<div class="container">
-		<h1 class="titulo_area_cliente">�REA DO CLIENTE</h1>
+		<h1 class="titulo_area_cliente">ÁREA DO CLIENTE</h1>
 		<div class="caixa_linha_down">
 			
 			<?php

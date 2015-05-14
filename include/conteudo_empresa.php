@@ -48,65 +48,6 @@
 
     </div>
 
-    <div class="caixa_equipe">
-      <h2>conheça A EQUIPE</h2>
-      
-      <?php
- 
-        $funcionarios = array(
-          'Alcindo#Diretor Geral<a href="livros.html">(Veja os seus livros publicados)</a>',
-          'Gloria#Diretora',
-          'Rafael#Diretor de Tecnologia',
-          'Leonardo Fiasca#Gerente Financeiro',
-          'Wellington#Gerente do Suporte',
-          'Leandro#Gerente de Projetos',
-          'Miguel#Gerente Comercial',
-          'Alexandre#Gerente de Hardware',
-          '�rica#Tester',
-          'Shayane#Tester',
-          'Leonardo Marques#Desenvolvedor',
-          'Victor Hugo#Desenvolvedor',
-          'Pedro# Desenvolvedor',
-          'Andr�#Desenvolvedor',
-          'Diego#Analista de Suporte',
-          'Denilson#Analista de Suporte',
-          'Marcos#Analista de Suporte',
-          'Bruna Sardinha#Analista de Suporte',
-          'Bruna Sangy#Analista de Suporte',
-          'Victor Alt#Analista de Suporte',
-          'Giselle#Secret�ria-Atendente',
-          'Leandro Maduro#T�cnico de Hardware',
-          'Adam#Auxiliar do Departamento Comercial'  
-        );
-
-         for ($i=1, $u=0; $i < 24; $i++,$u++) { 
-          $foto = "imagens/equipe/".zerosaesquerda($i, 6).".jpg";
-          $nome = substr($funcionarios[$u], 0, strpos( $funcionarios[$u],"#"));
-          $cargo = substr($funcionarios[$u], strpos( $funcionarios[$u],"#")+1);
-
-          if ( file_exists($foto) ) :
-           
-            if (($i%6)==0){
-              echo '<div class="funcionario retira_margin_funcionario">';
-            }
-            else
-            {              
-              echo '<div class="funcionario">';
-            }
-              echo '<img src="'.$foto.'?'.filemtime($foto).'">';
-              echo '<p class="nome_funcionarios">'.$nome.'</p>';
-              echo '<p class="funcao_funcionario">'.$cargo.'</p>';
-            echo '</div>';
-            if (($i%6)==0){
-              echo '<div style="clear:both"></div>';
-            }
-          endif;
-
-        }
-      ?>
-
-    </div>
-
     <div class="imagem_fundo"></div>
 
   </div>

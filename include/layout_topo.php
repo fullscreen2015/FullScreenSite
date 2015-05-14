@@ -31,12 +31,9 @@
 
       <nav>
         <ul class="ul_top">
-          <li><a class="menu_link" href="principal.html" id="menu-principal" rel="1">HOME</a></li>
+          <li><a class="menu_link" href="principal.html" id="menu-principal" rel="1">INÍCIO</a></li>
           <li><a class="menu_link" href="empresa.html" id="menu-empresa" rel="2">EMPRESA</a></li>
-          <li><a class="menu_link" href="solucoes.html" id="menu-solucoes" rel="3" >soluções</a></li>
-          <li><a class="menu_link" href="produtos.html" id="menu-produtos" rel="4">PRODUTOS</a></li>
-          <li><a class="menu_link" href="clientes.html" id="menu-clientes" rel="5">CLIENTES</a></li>
-          <li><a class="menu_link" href="area-cliente-login.html" id="menu-area-clientes" rel="6">�REA DO CLIENTE</a></li>
+          <li><a class="menu_link" href="solucoes.html" id="menu-solucoes" rel="3" >SOLUÇÕES</a></li>
           <li><a class="menu_link" href="contato.html" id="menu-contato" rel="7">CONTATO</a></li>
         </ul>
       </nav>

@@ -10,8 +10,6 @@
           <li><a href="principal.html" id="link-principal" rel="1_1">Principal</a></li>
           <li><a href="empresa.html" id="link-empresa" rel="1_2">Empresa</a></li>
           <li><a href="solucoes.html" id="link-solucoes" rel="1_3">Soluções</a></li>
-          <li><a href="produtos.html" id="link-produtos" rel="1_4">Produtos</a></li>
-          <li><a href="clientes.html" id="link-clientes" rel="1_5">Cliente</a></li>
           <li><a href="contato.html" id="link-contato" rel="1_6">Contato</a></li>
         </ul>
 
@@ -38,17 +36,12 @@
       <div class="rodape_right">
 
         <div class="endereco_rodape">
-          <h2>MATRIZ - NOVA FRIBURGO - RJ</h2>
+          <h2>NOVA FRIBURGO - RJ</h2>
           <p>Rua Carlos Éboli, 7 | Centro</p>
           <p>Nova Friburgo | RJ</p>
           <p>CEP: 28605-120</p>
           <p>Tel: (22) 2523-4168 / 2523-4210</p>
         </div>
-
-
-        <a href="http://www.friwebdesign.com.br" target="_back" rel="nofollow">
-          <img src="imagens/layout/logo_friweb.png">
-        </a>
       </div>
 
     </div>
