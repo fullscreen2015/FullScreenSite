@@ -196,6 +196,11 @@ body
   margin: 6px 0 0 40px;
 }
 
+.google_maps {
+	float: right;
+  	margin: 6px 0 0 40px;
+}
+
 .logo
 {
   float: left;
@@ -1540,4 +1545,57 @@ body
 {
   color: #477c74;
   font-weight: bold;
+}
+
+
+
+
+
+#container3 {
+	top: 20px;
+    float:left;
+    width:100%;
+    overflow:hidden;
+    position:relative;
+}
+#container2 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:30%;
+}
+#container1 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:40%;
+}
+#col1 {
+    float:left;
+    width:26%;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
+#col2 {
+    float:left;
+    width:36%;
+    position:relative;
+    left:76%;
+    overflow:hidden;
+}
+#col3 {
+    float:left;
+    width:26%;
+    position:relative;
+    left:80%;
+    overflow:hidden;
+}
+
+.destaque_principal {
+	background: #84c1bc;
+	height: 27px;
+	margin: 0;
+    font: 1.313em primeregular;
+    color: #fff;
 }

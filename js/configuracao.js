@@ -9,8 +9,6 @@ $(document).ready(function() {
 
 /* ----------- swf ------------- */
 
-fw_flash("logo","swf/logo.swf","125","89");
-
 /* acordeon do menu lateral */
 
 ddaccordion.init({

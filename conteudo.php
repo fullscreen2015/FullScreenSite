@@ -27,7 +27,6 @@
   <meta name="state" content="rio de janeiro">
   <meta name="country" content="brazil">  
 
-
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/style_css3.css">
   <link rel="stylesheet" href="fontes/stylesheet.css">
