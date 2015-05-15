@@ -16,7 +16,6 @@
         <ul class="ul_top">
           <li><a class="menu_link" href="principal.html" id="menu-principal" rel="1">INÍCIO</a></li>
           <li><a class="menu_link" href="empresa.html" id="menu-empresa" rel="2">EMPRESA</a></li>
-          <li><a class="menu_link" href="solucoes.html" id="menu-solucoes" rel="3" >SOLUÇÕES</a></li>
           <li><a class="menu_link" href="contato.html" id="menu-contato" rel="7">CONTATO</a></li>
         </ul>
       </nav>

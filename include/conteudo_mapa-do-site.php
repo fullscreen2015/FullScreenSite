@@ -8,7 +8,6 @@
       <ul class="sitemap-list">
         <li><a href="principal.html" class="sitemap-link">INÍCIO</a></li>
         <li><a href="empresa.html" class="sitemap-link">EMPRESA</a></li>
-        <li><a href="solucoes.html" class="sitemap-link">SOLUÇÕES</a></li>
         <li><a href="contato.html" class="sitemap-link">CONTATO</a></li>
       </ul>
 

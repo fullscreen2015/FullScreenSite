@@ -169,7 +169,7 @@ body
 {
   position: absolute;
   top: 0px;
-  left: 50%;
+  left: 4%;
   z-index: 999999;
 
   float: left;
@@ -1555,7 +1555,6 @@ body
 	top: 20px;
     float:left;
     width:100%;
-    overflow:hidden;
     position:relative;
 }
 #container2 {
@@ -1571,24 +1570,27 @@ body
     right:40%;
 }
 #col1 {
+	text-align: center;
     float:left;
-    width:26%;
+    width:33%;
     position:relative;
     left:72%;
     overflow:hidden;
 }
 #col2 {
+	text-align: center;
     float:left;
-    width:36%;
+    width:33%;
     position:relative;
-    left:76%;
+    left:72%;
     overflow:hidden;
 }
 #col3 {
+	text-align: center;
     float:left;
-    width:26%;
+    width:33%;
     position:relative;
-    left:80%;
+    left:72%;
     overflow:hidden;
 }
 
@@ -1599,3 +1601,375 @@ body
     font: 1.313em primeregular;
     color: #fff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================
+Template name: Outlined Flat Buttons
+Version: 1.0
+Author: RowBootstrap
+Author website: http://www.rowbootstrap.com/
+========================== */ 
+
+
+/* =================================
+Basic Styling
+================================= */ 
+body,
+html {
+    width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+	background: #FFFFFF;
+}
+
+/* Text colors */
+
+.text-color-white {
+	color: #FFFFFF;
+}
+
+.text-color-black {
+	color: #000000;
+}
+
+.text-color-theme {
+	color: #6f5499;
+}
+
+/* Background colors */
+.theme-bg{
+	background: #6f5499;
+}
+
+.bg-black{
+	background: #000000;
+}
+
+.secondary-bg {
+	background: #f0ecf6;
+}
+
+
+/* Margin */
+
+.margin-bottom-0 {
+	margin-bottom: 0 !important;
+}
+
+.margin-bottom-10 {
+	margin-bottom: 10px !important;
+}
+
+.margin-bottom-15 {
+	margin-bottom: 15px !important;
+}
+
+.margin-bottom-20 {
+	margin-bottom: 20px !important;
+}
+
+.margin-bottom-30 {
+	margin-bottom: 30px !important;
+}
+
+.margin-bottom-40 {
+	margin-bottom: 40px !important;
+}
+
+.margin-bottom-50 {
+	margin-bottom: 50px !important;
+}
+
+.margin-bottom-60 {
+	margin-bottom: 60px !important;
+}
+
+.margin-bottom-70 {
+	margin-bottom: 70px !important;
+}
+
+.margin-bottom-80 {
+	margin-bottom: 80px !important;
+}
+
+.margin-bottom-90 {
+	margin-bottom: 90px !important;
+}
+
+.margin-bottom-100 {
+	margin-bottom: 100px !important;
+}
+
+.margin-bottom-120 {
+	margin-bottom: 120px !important;
+}
+
+.margin-right-0 {
+	margin-right: 0 !important;
+}
+
+.margin-right-5 {
+	margin-right: 5px !important;
+}
+
+.margin-right-10 {
+	margin-right: 10px !important;
+}
+
+/* Padding surround */
+
+.padding-0 {
+	padding: 0px !important;
+}
+
+.padding-30 {
+	padding: 30px !important;
+}
+
+.padding-50 {
+	padding: 40px !important;
+}
+
+
+/* Buttons */
+
+.btn {
+	letter-spacing: 1px;
+	text-decoration: none;
+	background: none;
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+    white-space: nowrap;
+	font-size:14px;
+	line-height:20px;
+	font-weight:700;
+	text-transform:uppercase;
+	border: 3px solid;
+	padding:8px 20px;
+}
+
+.btn-outlined {
+    border-radius: 0;
+    -webkit-transition: all 0.3s;
+       -moz-transition: all 0.3s;
+            transition: all 0.3s;
+}
+
+.btn-outlined.btn-theme {
+    background: none;
+    color: #6f5499;
+	border-color: #6f5499;
+}
+
+.btn-outlined.btn-theme:hover,
+.btn-outlined.btn-theme:active {
+    color: #FFF;
+    background: #6f5499;
+    border-color: #6f5499;
+}
+
+.btn-outlined.btn-black {
+    background: none;
+    color: #000000;
+	border-color: #000000;
+}
+
+.btn-outlined.btn-black:hover,
+.btn-outlined.btn-black:active {
+    color: #FFF;
+    background: #000000;
+    border-color: #000000;
+}
+
+.btn-outlined.btn-white {
+    background: none;
+    color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+
+.btn-outlined.btn-white:hover,
+.btn-outlined.btn-white:active {
+    color: #6f5499;
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.btn-xs{
+	font-size:11px;
+	line-height:14px;
+	border: 1px solid;
+	padding:5px 10px;
+}
+
+.btn-sm{
+	font-size:12px;
+	line-height:16px;
+	border: 2px solid;
+	padding:8px 15px;
+}
+
+.btn-lg{
+	font-size:18px;
+	line-height:22px;
+	border: 4px solid;
+	padding:13px 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box > .icon { 
+	text-align: center; 
+	position: relative; 
+	
+	}
+.box > .icon > .image { 
+	position: relative; 
+	z-index: 2; 
+	margin: auto; 
+	width: 88px; 
+	height: 88px; 
+	line-height: 88px; 
+	vertical-align: middle;
+	}
+.box > .icon:hover > .image { 
+	 
+	}
+.box > .icon > .image > i { 
+	font-size: 36px !important; 
+	color: #fff !important; }
+.box > .icon:hover > .image > i { 
+	color: white !important; 
+	}
+.box > .icon > .info { 
+	margin-top: -24px; 
+	background: rgba(0, 0, 0, 0.04); 
+	border: 1px solid #e0e0e0; 
+	padding: 35px 0 10px 0; 
+	}
+.box > .icon:hover > .info { 
+	background: rgba(0, 0, 0, 0.04); 
+	border-color: #e0e0e0; 
+	color: white; 
+	}
+	
+.box > .icon > .info > h3.title { 
+	font-family: "Roboto",sans-serif !important; 
+	font-size: 16px; color: #222; 
+	font-weight: 500; 
+	}
+	
+.box > .icon > .info > p { 
+	font-family: "Roboto",sans-serif !important; 
+	font-size: 13px; color: #666; 
+	line-height: 1.5em; 
+	margin: 20px;
+	}
+	
+.box > .icon:hover > .info > h3.title, .box > .icon:hover > .info > p, .box > .icon:hover > .info > .more > a { 
+	color: #222; 
+	}
+.box > .icon > .info > .more a { 
+	font-family: "Roboto",sans-serif !important; 
+	font-size: 12px; line-height: 12px; 
+	text-transform: uppercase; 
+	text-decoration: none; 
+	}
+.box > .icon:hover > .info > .more > a { 
+	color: #fff; padding: 6px 8px;
+	}
+.box .space { 
+	height: 30px; 
+	}
+.info > h3 {
+	top: 20px;
+} 

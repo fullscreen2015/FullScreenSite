@@ -856,7 +856,7 @@
 .tp-bullets.simplebullets.round .bullet.last {
   margin-right: 3px;
 }
-
+	
 .tp-bullets.simplebullets.round-old .bullet {
   cursor: pointer;
   position: relative;
@@ -948,7 +948,7 @@
 
 .tp-bullets.simplebullets.round .bullet:hover,
 .tp-bullets.simplebullets.round .bullet.selected,
-.tp-bullets.simplebullets.navbar .bullet:hover,
+.x.simplebullets.navbar .bullet:hover,
 .tp-bullets.simplebullets.navbar .bullet.selected {
   background-position: bottom left;
 }

@@ -9,7 +9,6 @@
         <ul>
           <li><a href="principal.html" id="link-principal" rel="1_1">Principal</a></li>
           <li><a href="empresa.html" id="link-empresa" rel="1_2">Empresa</a></li>
-          <li><a href="solucoes.html" id="link-solucoes" rel="1_3">Soluções</a></li>
           <li><a href="contato.html" id="link-contato" rel="1_6">Contato</a></li>
         </ul>
 
