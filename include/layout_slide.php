@@ -6,7 +6,52 @@
       <div class="fullwidthbanner">
         <ul class="no-bullets">
 
+          
+<li data-transition="boxfade" data-slotamount="10" data-masterspeed="400">
+
+            <img src="imagens/slide_dinamico/bg_03.jpg" data-fullwidthcentering="on" alt="slide">
+
+      </li>
           <li data-transition="boxfade" data-slotamount="10" data-masterspeed="400">
+
+            <img src="imagens/slide_dinamico/bg_02.jpg" data-fullwidthcentering="on" alt="slide">
+			
+			
+			
+            <div class="caption medium_text2 randomrotate"
+              data-x="615"
+              data-y="120"
+              data-speed="100"
+              data-start="1200"
+              data-easing="easeOutExpo" >
+              <h2>Automação & Suprimentos</h2>
+              <br />
+              
+            </div>
+
+            <div class="caption modern_medium_fat_white lfl"
+              data-x="675"
+              data-y="155"
+              data-speed="300"
+              data-start="1600"
+              data-easing="easeOutExpo">
+              <span>
+              <br/> 
+              Planos diferenciados de suporte para a sua empresa.<br/> 
+              Comodidade e segurança!<br /> 
+              Vendas de equipamentos voltados para automação comercial.<br /> 
+              Entre em contato e saiba mais.<br/>
+              (22) 2523-4168 / 2523-4210
+              </span>
+            </div>
+
+
+          </li>
+
+       
+      
+      
+      <li data-transition="boxfade" data-slotamount="10" data-masterspeed="400">
 
             <img src="imagens/slide_dinamico/bg_01.jpg" data-fullwidthcentering="on" alt="slide">
             
@@ -44,48 +89,6 @@
             
 
           </li>
-
-          <li data-transition="boxfade" data-slotamount="10" data-masterspeed="400">
-
-            <img src="imagens/slide_dinamico/bg_02.jpg" data-fullwidthcentering="on" alt="slide">
-			
-			
-			
-            <div class="caption medium_text2 randomrotate"
-              data-x="615"
-              data-y="120"
-              data-speed="100"
-              data-start="1200"
-              data-easing="easeOutExpo" >
-              <h2>Automação & Suprimentos</h2>
-              <br />
-              
-            </div>
-
-            <div class="caption modern_medium_fat_white lfl"
-              data-x="675"
-              data-y="155"
-              data-speed="300"
-              data-start="1600"
-              data-easing="easeOutExpo">
-              <span>
-              <br/> 
-              Planos diferenciados de suporte para a sua empresa.<br/> 
-              Comodidade e segurança!<br /> 
-              Vendas de equipamentos voltados para automação comercial.<br /> 
-              Entre em contato e saiba mais.<br/>
-              (22) 2523-4168 / 2523-4210
-              </span>
-            </div>
-
-
-          </li>
-
-       <li data-transition="boxfade" data-slotamount="10" data-masterspeed="400">
-
-            <img src="imagens/slide_dinamico/bg_03.jpg" data-fullwidthcentering="on" alt="slide">
-
-      </li>
           
 
         </ul>
