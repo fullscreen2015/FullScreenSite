@@ -15,13 +15,12 @@
 			</p>
 			<p class="texto_solucoes">
 				Trata-se de uma solução de gestão empresarial que abrange todos os processos administrativos.
-				O AdmPlus é ideal para atacadistas, distribuidores, grandes lojas de varejo e indústrias.
-				Simples na utilização e ágil no acesso aos módulos, permite armazenar grandes volumes de dados, é veloz e extremamente seguro.
-				Oferece opções para uso em diversos sistemas operacionais. É ideal para utilização em rede de microcomputadores.
-				O AdmPlus é multiusuário e seus módulos são integrados.
+				O AdmPlus é ideal para atacadistas, distribuidores, lojas de varejo e indústrias.
+				Simples, ágil e com integração entre os módulos, permiti total controle sobre grandes volumes de informação de modo seguro e veloz.
+				Por ser comptativel com mais de uma versões do Windows ele é ideal para ser utilizado em rede de computadores.
 			</p>
 			<p class="texto_solucoes">
-				Nossa versão é desenvolvida em plataforma .NET da Microsoft com telas gráficas bem elaboradas.
+				O sistema e desnvolvido utilizando-se das técnicas e ferramentas mais modernas do mercado.
 			</p>
 			<p class="texto_solucoes">
 				MÓDULOS QUE COMPÕE O ADMPLUS:
@@ -57,9 +56,6 @@
 				� &nbsp; &nbsp; &nbsp;	ATENDIMENTO E VENDAS
 			</p>
 			<p class="p_destaque_solucoes">
-				� &nbsp; &nbsp; &nbsp;	FACÇÃO
-			</p>
-			<p class="p_destaque_solucoes">
 				� &nbsp; &nbsp; &nbsp;	LIVROS FISCAIS
 			</p>
 			<p class="p_destaque_solucoes">
@@ -84,10 +80,5 @@
 
 		
 
-		<div class="text_bottom_solucoes">
-			<p>
-				Uma grande funcionalidade do VDM é o fato dele trabalhar com módulos. Isso significa que de acordo com o módulo que o sistema for configurado, a acessibilidade do usuário bem como ás funcionalidades são restringidas ou ampliadas. O VDM apresenta os seguintes módulos: <span>Gerencial Total, Gerencial Limitado, Vendas Total, Vendas Limitado e Supervisor</span>. Cada módulo possui funções específicas com ou sem restrições pré-definidas. O sistema VDM ainda possui configurações personalizadas, que se adaptam de acordo com as necessidades de cada cliente.
-			</p>
 		</div>
-	</div>
 </div>
