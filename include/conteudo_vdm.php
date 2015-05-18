@@ -12,11 +12,11 @@
 			</div>
 
 			<p class="texto_solucoes">
-				O VDM é um aplicativo desenvolvido para Tablets e Smartphones, que tenham o Android como sistema operacional. Destina-se a atender empresas que trabalham com vendas externas (atacadistas / distribuidores).
+				O VDM é um aplicativo desenvolvido para Tablets e Smartphones, com o sistema Android. Destina-se a atender empresas que trabalham com vendas externas (atacadistas / distribuidores).
 			</p>
 
 			<p class="texto_solucoes">
-				Através de um programa que funciona em um computador fazemos a comunicação entre computador e os dispositivos (tablete ou Smartphone). Podemos dizer que esse programa é a matriz. E também através dele que instalamos e configuramos o VDM nos Tablets e Smartphones.
+				Toda a configuração e troca de informações do dispositivo (tablet ou smartphone) será feito a partir da instalação de um software em um computador.
 			</p>
 
 		</div>
@@ -79,7 +79,7 @@
 
 		<div class="text_bottom_solucoes">
 			<p>
-				Uma grande funcionalidade do VDM é o fato dele trabalhar com módulos. Isso significa que de acordo com o módulo que o sistema for configurado, a acessibilidade do usuário bem como ás funcionalidades são restringidas ou ampliadas. O VDM apresenta os seguintes módulos: <span>Gerencial Total, Gerencial Limitado, Vendas Total, Vendas Limitado e Supervisor</span>. Cada módulo possui funções específicas com ou sem restrições pré-definidas. O sistema VDM ainda possui configurações personalizadas, que se adaptam de acordo com as necessidades de cada cliente.
+				Como o sistema foi desenvolvido em módulos e possível que ele seja configurado para se permitir ou não acesso a determinadas funções de acordo com o usuário. O VDM apresenta os seguintes módulos: <span>Gerencial Total, Gerencial Limitado, Vendas Total, Vendas Limitado e Supervisor</span>. Cada módulo possui funções específicas com ou sem restrições, no VDM também existe a possibilidade de se criar configurações personalizadas, que se adaptam de acordo com as necessidades de cada cliente.
 			</p>
 		</div>
 	</div>
