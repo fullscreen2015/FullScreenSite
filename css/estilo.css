@@ -169,7 +169,7 @@ body
 {
   position: absolute;
   top: 0px;
-  left: 36%;
+  left: 48%;
   z-index: 999999;
 
   float: left;
@@ -297,12 +297,22 @@ body
 /*------------ conteudo principal-------------*/
 .conteudo_empresa
 {
-  position: relative;
+	  float: left;
+  width: 100%;
+  border-bottom: 15px solid #84c1bc; 
+/*}
+
+.imagem_fundo
+{
   float: left;
   width: 100%;
-  height: 415px;
-  height: 25.938em;
-  overflow: hidden;
+  height: 160px;*/
+  padding-bottom: 170px;
+  background-image: url(../imagens/layout/fundo_internas2.png); 
+  background-position: bottom left;
+  background-repeat: no-repeat;
+	
+
   background: url(../imagens/layout/fundo_conteudo.png) 0 0 repeat;
 }
 
@@ -1593,7 +1603,14 @@ body
     left:72%;
     overflow:hidden;
 }
-
+#colOne {
+	text-align: center;
+    float:left;
+    width:100%;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
 .destaque_principal {
 	background: #84c1bc;
 	height: 27px;
@@ -1973,3 +1990,99 @@ html {
 .info > h3 {
 	top: 20px;
 } 
+
+
+
+
+
+
+
+
+
+
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+/*  GRID OF THREE  */
+.span_3_of_3 { width: 100%; }
+.span_2_of_3 { width: 66.13%; }
+.span_1_of_3 { width: 32.26%; }
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+/*  GRID OF TWO  */
+.span_2_of_2 {
+	width: 100%;
+}
+.span_1_of_2 {
+	width: 49.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.col { 
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.span_2_of_2, .span_1_of_2 { width: 100%; }
+}

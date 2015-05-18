@@ -15,7 +15,7 @@
 			</p>
 			<p class="texto_solucoes">
 				Trata-se de uma solução de gestão empresarial que abrange todos os processos administrativos.
-				O AdmPlus é ideal para Atacadistas, Distribuidores,Grandes Lojas de Varejo (Materiais de Construção, Elétrica, Hidráulica, Ferramentas, Auto-Peças, Auto-Center, Rolamentos, Aviamentos,etc.) e indústrias em geral (plásticos, metalúrgicas, etc).
+				O AdmPlus é ideal para atacadistas, distribuidores, grandes lojas de varejo e indústrias.
 				Simples na utilização e ágil no acesso aos módulos, permite armazenar grandes volumes de dados, é veloz e extremamente seguro.
 				Oferece opções para uso em diversos sistemas operacionais. É ideal para utilização em rede de microcomputadores.
 				O AdmPlus é multiusuário e seus módulos são integrados.
